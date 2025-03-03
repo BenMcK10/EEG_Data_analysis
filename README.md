@@ -1,5 +1,6 @@
 # EEG_Data_analysis
-This code is used to interpret eeg data 
+This code is used to interpret eeg data
+
 V1: Plots Time series of test subject 007 on channel 003 for filtered and unfiltered data
 
 V2: Plots Time series and spectrogram of test subject 007 on channel 003 for filtered and unfiltered data
